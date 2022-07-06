@@ -3,7 +3,7 @@ import diabetes_home,diabetes_predict,diabetes_plots
 import streamlit as st
 import numpy as np
 import pandas as pd
-#HELLO
+
 
 st.set_page_config(page_title = 'Early Diabetes Prediction Web App',
                     page_icon = 'random',
